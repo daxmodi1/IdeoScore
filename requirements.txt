@@ -4,4 +4,6 @@ scikit-learn
 matplotlib
 seaborn
 missingno
+catboost
+xgboost
 # -e .
