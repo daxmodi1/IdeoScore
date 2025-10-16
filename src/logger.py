@@ -11,6 +11,3 @@ LOG_FILE_PATH = os.path.join(logs_dir, LOG_FILE)
 logging.basicConfig(filename=LOG_FILE_PATH,format='[%(asctime)s] %(name)s %(levelname)s - %(message)s',
                     level=logging.INFO)
 
-
-if __name__ == "__main__":
-    logging.info("Logging has started")
