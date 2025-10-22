@@ -6,5 +6,6 @@ seaborn
 missingno
 catboost
 xgboost
-imblanced-learn
+imbalanced-learn
+dill
 # -e .
